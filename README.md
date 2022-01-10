@@ -1,6 +1,10 @@
 # Knights-and-Chess-Boards
 Finding n possible strings by knights valid movements
 
+How to execute:
+Run the program. it will ask for input n. enter the value and press enter. 
+
+
 Given an integer n , return how many distinct strings can be produced by a knight moving from
 square to square for n times. Refer to the pdf file for further details.
 
